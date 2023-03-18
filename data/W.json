@@ -1,0 +1,314 @@
+[
+    {
+        "ngoko": "Waca",
+        "krama": "Waos",
+        "krama_inggil": "Waos",
+        "arti": "Baca"
+    },
+    {
+        "ngoko": "Wacan",
+        "krama": "Waosan",
+        "krama_inggil": "Waosan",
+        "arti": "Bacaan"
+    },
+    {
+        "ngoko": "Wadi",
+        "krama": "Wados",
+        "krama_inggil": "Wados",
+        "arti": "Rahasia"
+    },
+    {
+        "ngoko": "Wadon",
+        "krama": "\u00castri",
+        "krama_inggil": "Putri, Wanita",
+        "arti": "Putri, Perempuan"
+    },
+    {
+        "ngoko": "Wae",
+        "krama": "Kemawon",
+        "krama_inggil": "Kemawon",
+        "arti": "Saja"
+    },
+    {
+        "ngoko": "Wahing",
+        "krama": "Wahing",
+        "krama_inggil": "Sigra",
+        "arti": "Bersin"
+    },
+    {
+        "ngoko": "Waja",
+        "krama": "Waos",
+        "krama_inggil": "waos",
+        "arti": "Baja"
+    },
+    {
+        "ngoko": "Walanda",
+        "krama": "Walandi",
+        "krama_inggil": "Walandi",
+        "arti": "Belanda"
+    },
+    {
+        "ngoko": "Wani",
+        "krama": "Wantun",
+        "krama_inggil": "Wantun",
+        "arti": "Berani"
+    },
+    {
+        "ngoko": "Wanti-wanti",
+        "krama": "Wantos-wantos",
+        "krama_inggil": "Wantos-wantos",
+        "arti": "Nasehat keras"
+    },
+    {
+        "ngoko": "Warangka",
+        "krama": "Sarungan",
+        "krama_inggil": "Sarungan",
+        "arti": "Sarung keris"
+    },
+    {
+        "ngoko": "Waras",
+        "krama": "Saras",
+        "krama_inggil": "Waluya",
+        "arti": "Sembuh"
+    },
+    {
+        "ngoko": "War\u00eag",
+        "krama": "Tuwuk",
+        "krama_inggil": "Tuwuk",
+        "arti": "Kenyang"
+    },
+    {
+        "ngoko": "Warisan",
+        "krama": "Tilaran",
+        "krama_inggil": "Pusaka",
+        "arti": "Warisan"
+    },
+    {
+        "ngoko": "Warna",
+        "krama": "Warni",
+        "krama_inggil": "Warni",
+        "arti": "Warna/Jenis"
+    },
+    {
+        "ngoko": "Warung",
+        "krama": "Wande",
+        "krama_inggil": "Wande",
+        "arti": "Kedai, Warung"
+    },
+    {
+        "ngoko": "Waspada",
+        "krama": "Wasapaos",
+        "krama_inggil": "Wasapaos",
+        "arti": "Wasapada"
+    },
+    {
+        "ngoko": "Watara",
+        "krama": "Watawis",
+        "krama_inggil": "Watawis",
+        "arti": "Antara, Kira-kira"
+    },
+    {
+        "ngoko": "Watu",
+        "krama": "Sela",
+        "krama_inggil": "Sela",
+        "arti": "Batu"
+    },
+    {
+        "ngoko": "Watuk",
+        "krama": "Watuk",
+        "krama_inggil": "C\u00eakoh",
+        "arti": "Batuk"
+    },
+    {
+        "ngoko": "Wayah",
+        "krama": "Wanci",
+        "krama_inggil": "Wanci",
+        "arti": "Waktu"
+    },
+    {
+        "ngoko": "Wayang",
+        "krama": "Ringgit",
+        "krama_inggil": "Ringgit",
+        "arti": "Wayang"
+    },
+    {
+        "ngoko": "Wedang",
+        "krama": "B\u00eanteran",
+        "krama_inggil": "Unjukan",
+        "arti": "Minuman"
+    },
+    {
+        "ngoko": "Weneh",
+        "krama": "Dipunsukani",
+        "krama_inggil": "Dipunsukani",
+        "arti": "Diberi"
+    },
+    {
+        "ngoko": "W\u00ead\u00eal",
+        "krama": "C\u00eal\u00eap",
+        "krama_inggil": "C\u00eal\u00eap",
+        "arti": "Cat kain"
+    },
+    {
+        "ngoko": "W\u00eadhus",
+        "krama": "Menda",
+        "krama_inggil": "Menda",
+        "arti": "Kambing"
+    },
+    {
+        "ngoko": "W\u00eaktu",
+        "krama": "W\u00eakdal",
+        "krama_inggil": "W\u00eakdal",
+        "arti": "Waktu"
+    },
+    {
+        "ngoko": "W\u00eangi",
+        "krama": "Dalu",
+        "krama_inggil": "Dalu",
+        "arti": "Malam"
+    },
+    {
+        "ngoko": "W\u00earta",
+        "krama": "W\u00eartos, Wartos",
+        "krama_inggil": "W\u00eartos, Wartos",
+        "arti": "Berita, Kabar"
+    },
+    {
+        "ngoko": "W\u00earuh",
+        "krama": "Sum\u00ear\u00eap",
+        "krama_inggil": "Uninga, Priksa",
+        "arti": "Tahu, Melihat"
+    },
+    {
+        "ngoko": "W\u00easi",
+        "krama": "Tosan",
+        "krama_inggil": "Tosan",
+        "arti": "Besi"
+    },
+    {
+        "ngoko": "W\u00eateng",
+        "krama": "Padharan",
+        "krama_inggil": "Padharan",
+        "arti": "Perut"
+    },
+    {
+        "ngoko": "W\u00eatu",
+        "krama": "K\u00eaw\u00eadal",
+        "krama_inggil": "K\u00eawiyos",
+        "arti": "Terungkap"
+    },
+    {
+        "ngoko": "W\u00eaton",
+        "krama": "W\u00eadalan",
+        "krama_inggil": "W\u00eadalan",
+        "arti": "Hari kelahiran"
+    },
+    {
+        "ngoko": "Wicara",
+        "krama": "Wicant\u00ean",
+        "krama_inggil": "Ng\u00eandika",
+        "arti": "Bicara"
+    },
+    {
+        "ngoko": "Wigati",
+        "krama": "Wigatos",
+        "krama_inggil": "Wigatos",
+        "arti": "Perlu sekali, Penting"
+    },
+    {
+        "ngoko": "Wilang",
+        "krama": "Wical",
+        "krama_inggil": "Wical",
+        "arti": "Hitung"
+    },
+    {
+        "ngoko": "Wilangan",
+        "krama": "Wicalan",
+        "krama_inggil": "Wicalan",
+        "arti": "Hitungan, Bilangan"
+    },
+    {
+        "ngoko": "Wirang",
+        "krama": "Isin",
+        "krama_inggil": "Lingsem",
+        "arti": "Malu"
+    },
+    {
+        "ngoko": "Wis",
+        "krama": "Sampun",
+        "krama_inggil": "Sampun",
+        "arti": "Sudah"
+    },
+    {
+        "ngoko": "Wisuh",
+        "krama": "Wisuh",
+        "krama_inggil": "Wijik",
+        "arti": "Mencuci tangan/kaki"
+    },
+    {
+        "ngoko": "Wong",
+        "krama": "Tiyang",
+        "krama_inggil": "Priyantun",
+        "arti": "Orang"
+    },
+    {
+        "ngoko": "Wuda",
+        "krama": "Wuda",
+        "krama_inggil": "Lukar",
+        "arti": "Lepas pakaian"
+    },
+    {
+        "ngoko": "Wud\u00eal",
+        "krama": "Wud\u00eal",
+        "krama_inggil": "Nabi",
+        "arti": "Pusar"
+    },
+    {
+        "ngoko": "Wudun",
+        "krama": "Wudun",
+        "krama_inggil": "Untar",
+        "arti": "Bisul"
+    },
+    {
+        "ngoko": "Wulangan",
+        "krama": "Wucalan",
+        "krama_inggil": "Wucalan",
+        "arti": "Pelajaran"
+    },
+    {
+        "ngoko": "Wuluh",
+        "krama": "W\u00ealah",
+        "krama_inggil": "W\u00ealah",
+        "arti": "Buluh, Bambu"
+    },
+    {
+        "ngoko": "Wuragil",
+        "krama": "Wuragil",
+        "krama_inggil": "Waruju",
+        "arti": "Bungsu"
+    },
+    {
+        "ngoko": "Wurung",
+        "krama": "Sande",
+        "krama_inggil": "Sande",
+        "arti": "Tidak jadi"
+    },
+    {
+        "ngoko": "Wutuh",
+        "krama": "W\u00eatah",
+        "krama_inggil": "W\u00eatah",
+        "arti": "Utuh"
+    },
+    {
+        "ngoko": "Wuwuh",
+        "krama": "W\u00eatah",
+        "krama_inggil": "W\u00eatah",
+        "arti": "Bertambah"
+    },
+    {
+        "ngoko": "Wuwuhan",
+        "krama": "W\u00eawahan",
+        "krama_inggil": "W\u00eawahan",
+        "arti": "Tambaha"
+    }
+]

@@ -1,0 +1,356 @@
+[
+    {
+        "ngoko": "Bacut",
+        "krama": "Laj\u00eang",
+        "krama_inggil": "Laj\u00eang",
+        "arti": "Kemudian, Lantas"
+    },
+    {
+        "ngoko": "Bae",
+        "krama": "Kemawon",
+        "krama_inggil": "Kemawon",
+        "arti": "Hanya"
+    },
+    {
+        "ngoko": "Bakal",
+        "krama": "Badhe",
+        "krama_inggil": "Badhe",
+        "arti": "Akan"
+    },
+    {
+        "ngoko": "Baki",
+        "krama": "Baki",
+        "krama_inggil": "Panadhahan",
+        "arti": "Nampan"
+    },
+    {
+        "ngoko": "Bako",
+        "krama": "Sata",
+        "krama_inggil": "Sata",
+        "arti": "Tembakau"
+    },
+    {
+        "ngoko": "Baku",
+        "krama": "Bak\u00ean",
+        "krama_inggil": "Bak\u00ean",
+        "arti": "Pokok"
+    },
+    {
+        "ngoko": "Bali",
+        "krama": "Wangsul",
+        "krama_inggil": "Kondur",
+        "arti": "Kembali"
+    },
+    {
+        "ngoko": "Balung",
+        "krama": "Balung",
+        "krama_inggil": "Tosan",
+        "arti": "Tulang"
+    },
+    {
+        "ngoko": "Banda",
+        "krama": "Banda",
+        "krama_inggil": "Dipunb\u00easta",
+        "arti": "Dibelenggu"
+    },
+    {
+        "ngoko": "Bang\u00eat",
+        "krama": "Sang\u00eat",
+        "krama_inggil": "Sang\u00eat",
+        "arti": "Sangat"
+    },
+    {
+        "ngoko": "Bangga",
+        "krama": "Banggi",
+        "krama_inggil": "Banggi",
+        "arti": "Tidak Menurut"
+    },
+    {
+        "ngoko": "Bangkekan",
+        "krama": "Bangkekan",
+        "krama_inggil": "Wangkingan",
+        "arti": "Pinggang"
+    },
+    {
+        "ngoko": "Banjir",
+        "krama": "B\u00eana",
+        "krama_inggil": "B\u00eana",
+        "arti": "Banjir"
+    },
+    {
+        "ngoko": "Banjur",
+        "krama": "Laj\u00eang",
+        "krama_inggil": "Laj\u00eang",
+        "arti": "Lalu, Setelah itu"
+    },
+    {
+        "ngoko": "Bantal",
+        "krama": "Bantal",
+        "krama_inggil": "Kajang",
+        "arti": "Bantal"
+    },
+    {
+        "ngoko": "Banyu",
+        "krama": "Toya",
+        "krama_inggil": "Toya",
+        "arti": "Air"
+    },
+    {
+        "ngoko": "Bapa, Bapak",
+        "krama": "Rama",
+        "krama_inggil": "Rama",
+        "arti": "Bapak"
+    },
+    {
+        "ngoko": "Bar\u00eang",
+        "krama": "Sar\u00eang",
+        "krama_inggil": "Sar\u00eang",
+        "arti": "Bersama"
+    },
+    {
+        "ngoko": "Bar\u00eap",
+        "krama": "Pambaj\u00eang",
+        "krama_inggil": "Pambayun",
+        "arti": "Sulung"
+    },
+    {
+        "ngoko": "Bata",
+        "krama": "Banon",
+        "krama_inggil": "Banon",
+        "arti": "Batu bata"
+    },
+    {
+        "ngoko": "Bathik",
+        "krama": "S\u00earat",
+        "krama_inggil": "S\u00earat",
+        "arti": "Batik"
+    },
+    {
+        "ngoko": "Bathuk",
+        "krama": "Bathuk",
+        "krama_inggil": "Palarapan",
+        "arti": "Dahi"
+    },
+    {
+        "ngoko": "Batin",
+        "krama": "Batos",
+        "krama_inggil": "Batos",
+        "arti": "Batin"
+    },
+    {
+        "ngoko": "Batur",
+        "krama": "Rencang",
+        "krama_inggil": "Abdi",
+        "arti": "Hamba, Pembantu"
+    },
+    {
+        "ngoko": "Bebek",
+        "krama": "Kambangan",
+        "krama_inggil": "Kambangan",
+        "arti": "Itik"
+    },
+    {
+        "ngoko": "Beda",
+        "krama": "B\u00eant\u00ean",
+        "krama_inggil": "B\u00eant\u00ean",
+        "arti": "Beda"
+    },
+    {
+        "ngoko": "Ben, Kar\u00eaben",
+        "krama": "Kaj\u00eangipun",
+        "krama_inggil": "K\u00earsanipun",
+        "arti": "Biarlah"
+    },
+    {
+        "ngoko": "Besuk",
+        "krama": "Benjing",
+        "krama_inggil": "Benjing",
+        "arti": "Besuk"
+    },
+    {
+        "ngoko": "B\u00eab\u00ead",
+        "krama": "B\u00eab\u00ead",
+        "krama_inggil": "Nyamping",
+        "arti": "Jarik (untuk pria)"
+    },
+    {
+        "ngoko": "B\u00eabuwang",
+        "krama": "B\u00eabucal",
+        "krama_inggil": "Bobotan",
+        "arti": "Buang air besar"
+    },
+    {
+        "ngoko": "B\u00eacik",
+        "krama": "Sae",
+        "krama_inggil": "Sae",
+        "arti": "Baik"
+    },
+    {
+        "ngoko": "B\u00eadhil",
+        "krama": "S\u00eanjata",
+        "krama_inggil": "S\u00eanjata",
+        "arti": "Senjata"
+    },
+    {
+        "ngoko": "B\u00eadudan",
+        "krama": "B\u00eadudan",
+        "krama_inggil": "Watangan",
+        "arti": "Pipa rokok"
+    },
+    {
+        "ngoko": "B\u00ean\u00ear",
+        "krama": "L\u00ear\u00eas",
+        "krama_inggil": "Kasinggihan",
+        "arti": "Benar, Betul"
+    },
+    {
+        "ngoko": "B\u00eangi",
+        "krama": "Dalu",
+        "krama_inggil": "Dalu",
+        "arti": "Malam"
+    },
+    {
+        "ngoko": "B\u00earas",
+        "krama": "Wos",
+        "krama_inggil": "Wos",
+        "arti": "Beras"
+    },
+    {
+        "ngoko": "Bisa",
+        "krama": "Sag\u00ead",
+        "krama_inggil": "Sag\u00ead",
+        "arti": "Dapat, Bisa"
+    },
+    {
+        "ngoko": "Biyen",
+        "krama": "Riyin",
+        "krama_inggil": "Rumiyin",
+        "arti": "Dulu"
+    },
+    {
+        "ngoko": "Biyung",
+        "krama": "Biyung",
+        "krama_inggil": "Ibu",
+        "arti": "Ibu"
+    },
+    {
+        "ngoko": "Bobot",
+        "krama": "Wawratipun",
+        "krama_inggil": "Wawratipun",
+        "arti": "Beratnya"
+    },
+    {
+        "ngoko": "Bocah",
+        "krama": "Lare",
+        "krama_inggil": "Lare",
+        "arti": "Anak"
+    },
+    {
+        "ngoko": "Bojo",
+        "krama": "Semah",
+        "krama_inggil": "Garwa",
+        "arti": "Suami/Istri"
+    },
+    {
+        "ngoko": "Bokong",
+        "krama": "Bokong",
+        "krama_inggil": "Pocong",
+        "arti": "Bokong"
+    },
+    {
+        "ngoko": "Bolah",
+        "krama": "B\u00eanang",
+        "krama_inggil": "B\u00eanang",
+        "arti": "Benang"
+    },
+    {
+        "ngoko": "Boreh",
+        "krama": "Boreh",
+        "krama_inggil": "Konyoh",
+        "arti": "Bedak"
+    },
+    {
+        "ngoko": "Brengos",
+        "krama": "Brengos",
+        "krama_inggil": "Rawis",
+        "arti": "Kumis"
+    },
+    {
+        "ngoko": "Bubar",
+        "krama": "Bibar",
+        "krama_inggil": "Bibar",
+        "arti": "Selesai"
+    },
+    {
+        "ngoko": "Bubrah",
+        "krama": "Bibrah",
+        "krama_inggil": "Bibrah",
+        "arti": "Rusak"
+    },
+    {
+        "ngoko": "Budi",
+        "krama": "Manah",
+        "krama_inggil": "P\u00eanggalih",
+        "arti": "Budi, Pikiran, Akal"
+    },
+    {
+        "ngoko": "Budhal",
+        "krama": "Bidhal",
+        "krama_inggil": "Bidhal",
+        "arti": "Berangkat"
+    },
+    {
+        "ngoko": "Bukak",
+        "krama": "Bikak",
+        "krama_inggil": "Bikak",
+        "arti": "Buka"
+    },
+    {
+        "ngoko": "Bungah",
+        "krama": "Bingah",
+        "krama_inggil": "R\u00eana",
+        "arti": "Gembira"
+    },
+    {
+        "ngoko": "Buri",
+        "krama": "Wingking",
+        "krama_inggil": "Wingking",
+        "arti": "Belakang"
+    },
+    {
+        "ngoko": "Buru",
+        "krama": "Buj\u00eang",
+        "krama_inggil": "Buj\u00eang",
+        "arti": "Buru"
+    },
+    {
+        "ngoko": "Buruh",
+        "krama": "B\u00earah",
+        "krama_inggil": "B\u00earah",
+        "arti": "Buruh, Pekerja"
+    },
+    {
+        "ngoko": "Buta",
+        "krama": "Danawa",
+        "krama_inggil": "Danawa",
+        "arti": "Raksasa"
+    },
+    {
+        "ngoko": "Butuh",
+        "krama": "B\u00eatah",
+        "krama_inggil": "B\u00eatah",
+        "arti": "Butuh"
+    },
+    {
+        "ngoko": "Buwang",
+        "krama": "Bucal",
+        "krama_inggil": "Bucal",
+        "arti": "Buang"
+    },
+    {
+        "ngoko": "Buyar",
+        "krama": "Rampung",
+        "krama_inggil": "Rampung",
+        "arti": "Selesai"
+    }
+]

@@ -1,0 +1,956 @@
+[
+    {
+        "ngoko": "Kab\u00eacikan",
+        "krama": "K\u00easaenan",
+        "krama_inggil": "K\u00easaenan",
+        "arti": "Kebaikan"
+    },
+    {
+        "ngoko": "Kabeh",
+        "krama": "Sedaya",
+        "krama_inggil": "Sedanten",
+        "arti": "Semua"
+    },
+    {
+        "ngoko": "Kacamata",
+        "krama": "Kacamripat",
+        "krama_inggil": "Kacatingal",
+        "arti": "Kacamata"
+    },
+    {
+        "ngoko": "Kacek",
+        "krama": "Kaot",
+        "krama_inggil": "Kaot",
+        "arti": "Beda, Selisih"
+    },
+    {
+        "ngoko": "Kacu",
+        "krama": "Kacu",
+        "krama_inggil": "Usap asta",
+        "arti": "Sapu tangan"
+    },
+    {
+        "ngoko": "Kadh\u00eam\u00ean",
+        "krama": "Kasr\u00eap\u00ean",
+        "krama_inggil": "Kasr\u00eap\u00ean",
+        "arti": "Kedinginan"
+    },
+    {
+        "ngoko": "Kadohan",
+        "krama": "K\u00eat\u00eabih\u00ean",
+        "krama_inggil": "K\u00eat\u00eabih\u00ean",
+        "arti": "Terlalu jauh"
+    },
+    {
+        "ngoko": "Kae",
+        "krama": "Punika",
+        "krama_inggil": "Punika",
+        "arti": "Itu"
+    },
+    {
+        "ngoko": "Kaget",
+        "krama": "Kaget",
+        "krama_inggil": "Kejot",
+        "arti": "Terkejut"
+    },
+    {
+        "ngoko": "Kagetan",
+        "krama": "K\u00eajotan",
+        "krama_inggil": "K\u00eajotan",
+        "arti": "Mudah terkejut"
+    },
+    {
+        "ngoko": "Kajaba",
+        "krama": "K\u00eajawi",
+        "krama_inggil": "K\u00eajawi",
+        "arti": "Kecuali"
+    },
+    {
+        "ngoko": "Kajawan",
+        "krama": "Kajawen",
+        "krama_inggil": "Kajawen",
+        "arti": "Wilayahnya orang jawa"
+    },
+    {
+        "ngoko": "Kaji",
+        "krama": "Ngaos",
+        "krama_inggil": "Ngaos",
+        "arti": "Mengaji"
+    },
+    {
+        "ngoko": "Kakang",
+        "krama": "Kakang",
+        "krama_inggil": "Kangmas, Raka",
+        "arti": "Kakak laki-laki"
+    },
+    {
+        "ngoko": "Kakehan",
+        "krama": "K\u00eakathah\u00ean",
+        "krama_inggil": "K\u00eakathah\u00ean",
+        "arti": "Kebanyakan"
+    },
+    {
+        "ngoko": "Kaku",
+        "krama": "Kaken",
+        "krama_inggil": "Kaken",
+        "arti": "Kaku"
+    },
+    {
+        "ngoko": "Kalah",
+        "krama": "Kawon",
+        "krama_inggil": "Kasoran",
+        "arti": "Kalah"
+    },
+    {
+        "ngoko": "Kali",
+        "krama": "Lepen",
+        "krama_inggil": "Lepen",
+        "arti": "Sungai"
+    },
+    {
+        "ngoko": "Kalumrahan",
+        "krama": "Kalimrahan",
+        "krama_inggil": "Kalimrahan",
+        "arti": "Kebiasaan"
+    },
+    {
+        "ngoko": "Kalung",
+        "krama": "Kalung",
+        "krama_inggil": "Sangsangan",
+        "arti": "Kalung"
+    },
+    {
+        "ngoko": "Kalungguhan",
+        "krama": "Kalungguhan",
+        "krama_inggil": "Kal\u00eanggahan",
+        "arti": "Pangkat, Kedudukan"
+    },
+    {
+        "ngoko": "Kaluputan",
+        "krama": "Kal\u00eapatan",
+        "krama_inggil": "Kal\u00eapatan",
+        "arti": "Kesalahan"
+    },
+    {
+        "ngoko": "Kambil",
+        "krama": "Klapa",
+        "krama_inggil": "Klapa",
+        "arti": "Kelapa"
+    },
+    {
+        "ngoko": "Kambu",
+        "krama": "Kambet",
+        "krama_inggil": "Kambet",
+        "arti": "Tercium baunya"
+    },
+    {
+        "ngoko": "Kamitua",
+        "krama": "Kamisepuh",
+        "krama_inggil": "Kamisepuh",
+        "arti": "Pimpinan desa"
+    },
+    {
+        "ngoko": "Kamot",
+        "krama": "Kawrat",
+        "krama_inggil": "Kawrat",
+        "arti": "Muat"
+    },
+    {
+        "ngoko": "Kana",
+        "krama": "Ngrika",
+        "krama_inggil": "Ngrika",
+        "arti": "Sana"
+    },
+    {
+        "ngoko": "Kanca",
+        "krama": "Rencang",
+        "krama_inggil": "Rencang",
+        "arti": "Teman"
+    },
+    {
+        "ngoko": "Kandha",
+        "krama": "Sanjang",
+        "krama_inggil": "Matur",
+        "arti": "Berkata"
+    },
+    {
+        "ngoko": "Kang\u00ean",
+        "krama": "Kang\u00ean",
+        "krama_inggil": "Kapang, Oneng",
+        "arti": "Rindu"
+    },
+    {
+        "ngoko": "Kang\u00earten",
+        "krama": "Kang\u00eartosan",
+        "krama_inggil": "Kang\u00eartosan",
+        "arti": "Diketahui"
+    },
+    {
+        "ngoko": "Kanggo",
+        "krama": "Kangge",
+        "krama_inggil": "Kagem",
+        "arti": "Buat"
+    },
+    {
+        "ngoko": "Kanti",
+        "krama": "Kantos",
+        "krama_inggil": "Kantos",
+        "arti": "Hingga, Sampai"
+    },
+    {
+        "ngoko": "Kant\u00ean",
+        "krama": "Kantosan",
+        "krama_inggil": "Kantosan",
+        "arti": "Penyabar"
+    },
+    {
+        "ngoko": "Kapan",
+        "krama": "Mbenjing menapa",
+        "krama_inggil": "Mbenjing menapa",
+        "arti": "Kapan"
+    },
+    {
+        "ngoko": "Kapiran",
+        "krama": "Kapinten",
+        "krama_inggil": "Kapinten",
+        "arti": "Tidak terawat"
+    },
+    {
+        "ngoko": "Kara-kara",
+        "krama": "Kawis-kawis",
+        "krama_inggil": "Kawis-kawis",
+        "arti": "Halangan"
+    },
+    {
+        "ngoko": "Karang\u00ean",
+        "krama": "Kawis\u00ean",
+        "krama_inggil": "Kawis\u00ean",
+        "arti": "Terlalu jarang"
+    },
+    {
+        "ngoko": "Kar\u00eaben",
+        "krama": "Kajengipun",
+        "krama_inggil": "Kajengipun",
+        "arti": "Biar saja, Supaya"
+    },
+    {
+        "ngoko": "Kar\u00eap",
+        "krama": "Kaj\u00eang",
+        "krama_inggil": "Kersa",
+        "arti": "Niat, Maksud"
+    },
+    {
+        "ngoko": "Kar\u00eape",
+        "krama": "Kaj\u00eangipun",
+        "krama_inggil": "K\u00earsanipun",
+        "arti": "Maksudnya"
+    },
+    {
+        "ngoko": "Kari",
+        "krama": "Kantun",
+        "krama_inggil": "Kantun",
+        "arti": "Tertinggal"
+    },
+    {
+        "ngoko": "Karo",
+        "krama": "Kalih",
+        "krama_inggil": "Kalih",
+        "arti": "Kedua"
+    },
+    {
+        "ngoko": "Karo",
+        "krama": "Kaliyan",
+        "krama_inggil": "Kaliyan",
+        "arti": "Dengan"
+    },
+    {
+        "ngoko": "Kartu",
+        "krama": "K\u00eartos",
+        "krama_inggil": "K\u00eartos",
+        "arti": "Kartu"
+    },
+    {
+        "ngoko": "Karuhan",
+        "krama": "Kant\u00eanan",
+        "krama_inggil": "Kant\u00eanan",
+        "arti": "Tentu, Jelas"
+    },
+    {
+        "ngoko": "Kasoran",
+        "krama": "Kawonan",
+        "krama_inggil": "Kandhapan",
+        "arti": "Kalah"
+    },
+    {
+        "ngoko": "Kathok",
+        "krama": "Sruwal",
+        "krama_inggil": "Lancingan",
+        "arti": "Celana"
+    },
+    {
+        "ngoko": "Kathokan",
+        "krama": "Sruwalan",
+        "krama_inggil": "Lancingan",
+        "arti": "Bercelana"
+    },
+    {
+        "ngoko": "Katon",
+        "krama": "Katingal",
+        "krama_inggil": "Katingal",
+        "arti": "Dapat dilihat"
+    },
+    {
+        "ngoko": "Kaya",
+        "krama": "Kados",
+        "krama_inggil": "Kados",
+        "arti": "Seperti"
+    },
+    {
+        "ngoko": "Kayu",
+        "krama": "Kaj\u00eang",
+        "krama_inggil": "Kaj\u00eang",
+        "arti": "Batang pohon"
+    },
+    {
+        "ngoko": "Kawan\u00ean",
+        "krama": "K\u00easiangan",
+        "krama_inggil": "K\u00easiangan",
+        "arti": "Kesiangan"
+    },
+    {
+        "ngoko": "Kaw\u00eang\u00ean",
+        "krama": "K\u00eadalon",
+        "krama_inggil": "K\u00eadalon",
+        "arti": "K\u00eamalaman"
+    },
+    {
+        "ngoko": "Kawigaten",
+        "krama": "Kawigatosan",
+        "krama_inggil": "Kawigatosan",
+        "arti": "Perhatian"
+    },
+    {
+        "ngoko": "Kawruh",
+        "krama": "S\u00eas\u00ear\u00eapan",
+        "krama_inggil": "S\u00eas\u00ear\u00eapan",
+        "arti": "Pengetahuan"
+    },
+    {
+        "ngoko": "Kelangan",
+        "krama": "Kecalan",
+        "krama_inggil": "Kecalan",
+        "arti": "Kehilangan"
+    },
+    {
+        "ngoko": "Kelingan",
+        "krama": "Kemutan",
+        "krama_inggil": "Kemutan",
+        "arti": "Teringat"
+    },
+    {
+        "ngoko": "Kempol",
+        "krama": "Kempol",
+        "krama_inggil": "Wengkelan",
+        "arti": "Betis"
+    },
+    {
+        "ngoko": "Kene",
+        "krama": "Riki",
+        "krama_inggil": "Riki",
+        "arti": "Sini"
+    },
+    {
+        "ngoko": "Keren",
+        "krama": "Kantunan",
+        "krama_inggil": "Kantunan",
+        "arti": "Sisa"
+    },
+    {
+        "ngoko": "Keri",
+        "krama": "Kantun",
+        "krama_inggil": "Kantun",
+        "arti": "Tertinggal"
+    },
+    {
+        "ngoko": "Kesuk",
+        "krama": "Sakenjing",
+        "krama_inggil": "Sakenjing",
+        "arti": "Sepanjang pagi"
+    },
+    {
+        "ngoko": "Ketok",
+        "krama": "asring",
+        "krama_inggil": "asring",
+        "arti": "Kelihatan"
+    },
+    {
+        "ngoko": "Kewuhan",
+        "krama": "Kew\u00eadan",
+        "krama_inggil": "Kew\u00eadan",
+        "arti": "Sangat segan"
+    },
+    {
+        "ngoko": "k\u00ea",
+        "krama": "Kaping",
+        "krama_inggil": "Kaping",
+        "arti": "Kebatinan"
+    },
+    {
+        "ngoko": "K\u00eabacut",
+        "krama": "Kelajeng",
+        "krama_inggil": "Kelajeng",
+        "arti": "Terlanjur"
+    },
+    {
+        "ngoko": "K\u00eabang\u00eat\u00ean",
+        "krama": "K\u00easang\u00eat\u00ean",
+        "krama_inggil": "K\u00easang\u00eat\u00ean",
+        "arti": "Keterlaluan"
+    },
+    {
+        "ngoko": "K\u00eabanyon",
+        "krama": "K\u00eatoyan",
+        "krama_inggil": "K\u00eatoyan",
+        "arti": "Terairi (sawah)"
+    },
+    {
+        "ngoko": "K\u00eabatinan",
+        "krama": "K\u00eabatosan",
+        "krama_inggil": "K\u00eabatosan",
+        "arti": "Kebati"
+    },
+    {
+        "ngoko": "K\u00eab\u00ean\u00ear",
+        "krama": "K\u00eal\u00ear\u00eas",
+        "krama_inggil": "K\u00eal\u00ear\u00eas",
+        "arti": "Kebetulan"
+    },
+    {
+        "ngoko": "K\u00eabiren",
+        "krama": "K\u00eabincihan",
+        "krama_inggil": "K\u00eabincihan",
+        "arti": "Hewan yang dikebiri"
+    },
+    {
+        "ngoko": "K\u00eabiri",
+        "krama": "Dipunk\u00eabiri",
+        "krama_inggil": "Dipunk\u00eabiri",
+        "arti": "Dimandulkan"
+    },
+    {
+        "ngoko": "K\u00eabo",
+        "krama": "Maesa",
+        "krama_inggil": "Maesa",
+        "arti": "Kerbau"
+    },
+    {
+        "ngoko": "K\u00eabocah\u00ean",
+        "krama": "K\u00ealaren",
+        "krama_inggil": "K\u00ealaren",
+        "arti": "Kekanak-kanakan"
+    },
+    {
+        "ngoko": "K\u00eabutuhan",
+        "krama": "Kab\u00eatahan",
+        "krama_inggil": "Kab\u00eatahan",
+        "arti": "Kebutuhan"
+    },
+    {
+        "ngoko": "K\u00eacilik\u00ean",
+        "krama": "Kalit\u00ean",
+        "krama_inggil": "Kalit\u00ean",
+        "arti": "Terlalu kecil"
+    },
+    {
+        "ngoko": "K\u00eadadeyan",
+        "krama": "K\u00eadadosan",
+        "krama_inggil": "K\u00eadadosan",
+        "arti": "Kejadian"
+    },
+    {
+        "ngoko": "K\u00eadhep",
+        "krama": "K\u00eadhep",
+        "krama_inggil": "Kejep",
+        "arti": "Kejap"
+    },
+    {
+        "ngoko": "K\u00eajaba",
+        "krama": "K\u00eajawi",
+        "krama_inggil": "K\u00eajawi",
+        "arti": "Kecuali"
+    },
+    {
+        "ngoko": "K\u00eakar\u00eapane",
+        "krama": "K\u00eakaj\u00eanganipun",
+        "krama_inggil": "K\u00eakaj\u00eanganipun",
+        "arti": "Kehendak"
+    },
+    {
+        "ngoko": "K\u00eak\u00eambangan",
+        "krama": "S\u00eas\u00eakaran",
+        "krama_inggil": "S\u00eas\u00eakaran",
+        "arti": "Bunga-bungaan"
+    },
+    {
+        "ngoko": "K\u00eak\u00eamon",
+        "krama": "K\u00eak\u00eamon",
+        "krama_inggil": "K\u00eak\u00eamb\u00eangan",
+        "arti": "Berkumur"
+    },
+    {
+        "ngoko": "K\u00ealairan",
+        "krama": "W\u00eadalan",
+        "krama_inggil": "Wiyosan",
+        "arti": "Kelahiran"
+    },
+    {
+        "ngoko": "K\u00ealakon",
+        "krama": "K\u00ealampahan",
+        "krama_inggil": "K\u00ealampahan",
+        "arti": "Terlaksana"
+    },
+    {
+        "ngoko": "K\u00ealalen",
+        "krama": "K\u00easupen",
+        "krama_inggil": "K\u00easupen",
+        "arti": "Terlupa"
+    },
+    {
+        "ngoko": "K\u00ealar, Kuwat",
+        "krama": "Kuwawi",
+        "krama_inggil": "Kuwawi",
+        "arti": "Kuat"
+    },
+    {
+        "ngoko": "K\u00ealaran",
+        "krama": "K\u00easakitan",
+        "krama_inggil": "K\u00easakitan",
+        "arti": "Kesakitan"
+    },
+    {
+        "ngoko": "K\u00ealalen",
+        "krama": "K\u00easupen",
+        "krama_inggil": "Kalim\u00eangan",
+        "arti": "Terlupa"
+    },
+    {
+        "ngoko": "K\u00ealuron",
+        "krama": "K\u00ealuron",
+        "krama_inggil": "T\u00earag",
+        "arti": "Keguguran"
+    },
+    {
+        "ngoko": "K\u00eamalingan",
+        "krama": "K\u00eapandungan",
+        "krama_inggil": "K\u00eapandungan",
+        "arti": "Kecurian"
+    },
+    {
+        "ngoko": "K\u00eambang",
+        "krama": "S\u00eakar",
+        "krama_inggil": "S\u00eakar",
+        "arti": "Bunga"
+    },
+    {
+        "ngoko": "K\u00eam\u00eanyan",
+        "krama": "Sela",
+        "krama_inggil": "Sela",
+        "arti": "Kemenyan"
+    },
+    {
+        "ngoko": "K\u00eamu",
+        "krama": "K\u00eamu",
+        "krama_inggil": "Kembeng",
+        "arti": "Kumur"
+    },
+    {
+        "ngoko": "K\u00eamul",
+        "krama": "K\u00eamul",
+        "krama_inggil": "Sing\u00eab",
+        "arti": "Selimut"
+    },
+    {
+        "ngoko": "K\u00eana",
+        "krama": "Kenging",
+        "krama_inggil": "Kenging",
+        "arti": "Boleh"
+    },
+    {
+        "ngoko": "K\u00eand\u00eal",
+        "krama": "Purun",
+        "krama_inggil": "Purun",
+        "arti": "Berani"
+    },
+    {
+        "ngoko": "K\u00eandhek\u00ean",
+        "krama": "Kandhapan",
+        "krama_inggil": "Kandhapan",
+        "arti": "Sangat pendek"
+    },
+    {
+        "ngoko": "K\u00eantekan",
+        "krama": "K\u00eat\u00ealasan",
+        "krama_inggil": "K\u00eat\u00ealasan",
+        "arti": "Kehabisan"
+    },
+    {
+        "ngoko": "K\u00eapaten",
+        "krama": "K\u00eap\u00eajahan",
+        "krama_inggil": "K\u00easedan",
+        "arti": "Kematian"
+    },
+    {
+        "ngoko": "K\u00eap\u00eantut",
+        "krama": "K\u00eap\u00eantut",
+        "krama_inggil": "K\u00easarib",
+        "arti": "Kentut"
+    },
+    {
+        "ngoko": "K\u00eapriye",
+        "krama": "Kados pundi",
+        "krama_inggil": "Kados pundi",
+        "arti": "Bagaimana"
+    },
+    {
+        "ngoko": "K\u00eapung",
+        "krama": "K\u00eapang",
+        "krama_inggil": "K\u00eapang",
+        "arti": "Dikelilingi"
+    },
+    {
+        "ngoko": "K\u00ear\u00eap",
+        "krama": "Asring",
+        "krama_inggil": "Asring",
+        "arti": "Sering"
+    },
+    {
+        "ngoko": "K\u00earis",
+        "krama": "Dhuwung",
+        "krama_inggil": "Wangkkingan",
+        "arti": "Keris"
+    },
+    {
+        "ngoko": "K\u00eas\u00eal",
+        "krama": "Sayah",
+        "krama_inggil": "Sayah",
+        "arti": "lelah"
+    },
+    {
+        "ngoko": "K\u00easusu",
+        "krama": "K\u00eas\u00easa",
+        "krama_inggil": "K\u00eas\u00easa",
+        "arti": "Tergesa-gesa"
+    },
+    {
+        "ngoko": "K\u00easuwen",
+        "krama": "Kvdangon",
+        "krama_inggil": "Kvdangon",
+        "arti": "Terlalu lama"
+    },
+    {
+        "ngoko": "K\u00eatara",
+        "krama": "K\u00eatawis",
+        "krama_inggil": "K\u00eatawis",
+        "arti": "Kentara"
+    },
+    {
+        "ngoko": "K\u00eat\u00eakan",
+        "krama": "K\u00eadhat\u00eangan",
+        "krama_inggil": "Krawuhan",
+        "arti": "Didatangi"
+    },
+    {
+        "ngoko": "K\u00eat\u00eamu",
+        "krama": "K\u00eapanggih",
+        "krama_inggil": "K\u00eapanggih",
+        "arti": "Bertemu"
+    },
+    {
+        "ngoko": "K\u00eathek",
+        "krama": "K\u00eathek",
+        "krama_inggil": "Rewanda",
+        "arti": "Kera"
+    },
+    {
+        "ngoko": "K\u00eaw\u00eangen",
+        "krama": "K\u00eadalon",
+        "krama_inggil": "K\u00eadalon",
+        "arti": "Kemalaman"
+    },
+    {
+        "ngoko": "Kijing",
+        "krama": "Kijing",
+        "krama_inggil": "S\u00eakaran",
+        "arti": "Nisan"
+    },
+    {
+        "ngoko": "Kinacek",
+        "krama": "Kinaot",
+        "krama_inggil": "Kinaot",
+        "arti": "Istimewa"
+    },
+    {
+        "ngoko": "Kinang",
+        "krama": "Ganten",
+        "krama_inggil": "Ganten",
+        "arti": "Kingang"
+    },
+    {
+        "ngoko": "Kira",
+        "krama": "Kint\u00ean",
+        "krama_inggil": "Kint\u00ean",
+        "arti": "Kira"
+    },
+    {
+        "ngoko": "Kirim",
+        "krama": "Kintun",
+        "krama_inggil": "Kintun",
+        "arti": "Kirim"
+    },
+    {
+        "ngoko": "Kiyi",
+        "krama": "M\u00eanika",
+        "krama_inggil": "M\u00eanika",
+        "arti": "Ini"
+    },
+    {
+        "ngoko": "Klambi",
+        "krama": "Rasukan",
+        "krama_inggil": "Ag\u00eaman rasukan",
+        "arti": "Baju"
+    },
+    {
+        "ngoko": "Klasa",
+        "krama": "G\u00ealaran",
+        "krama_inggil": "G\u00ealaran",
+        "arti": "Tikar"
+    },
+    {
+        "ngoko": "Kleru",
+        "krama": "Klintu",
+        "krama_inggil": "Klintu",
+        "arti": "Keliru"
+    },
+    {
+        "ngoko": "Kl\u00eabu",
+        "krama": "Kl\u00eab\u00eat",
+        "krama_inggil": "Kl\u00eab\u00eat",
+        "arti": "Termasuk"
+    },
+    {
+        "ngoko": "Klbon",
+        "krama": "Kl\u00eab\u00eatan",
+        "krama_inggil": "Kl\u00eab\u00eatan",
+        "arti": "Kemasukan"
+    },
+    {
+        "ngoko": "Kl\u00eang\u00ear",
+        "krama": "Kl\u00eang\u00ear",
+        "krama_inggil": "Kantu",
+        "arti": "Pingsan"
+    },
+    {
+        "ngoko": "Klumpuk",
+        "krama": "Kl\u00eampak",
+        "krama_inggil": "Kl\u00eampak",
+        "arti": "Kumpul"
+    },
+    {
+        "ngoko": "Kobong",
+        "krama": "Kab\u00easmi",
+        "krama_inggil": "Kab\u00easmi",
+        "arti": "Kebakar"
+    },
+    {
+        "ngoko": "Kok",
+        "krama": "Sampeyan",
+        "krama_inggil": "Panj\u00ean\u00eangan",
+        "arti": "Kau"
+    },
+    {
+        "ngoko": "Kodanan",
+        "krama": "K\u00eajawahan",
+        "krama_inggil": "K\u00eajawahan",
+        "arti": "Kejawahan"
+    },
+    {
+        "ngoko": "Kongkon",
+        "krama": "Kengken",
+        "krama_inggil": "Ngutus",
+        "arti": "Menyuruh"
+    },
+    {
+        "ngoko": "Kono",
+        "krama": "Riku",
+        "krama_inggil": "Riku",
+        "arti": "Situ"
+    },
+    {
+        "ngoko": "Kowe",
+        "krama": "Sampeyan",
+        "krama_inggil": "Panjenengan",
+        "arti": "Kamu"
+    },
+    {
+        "ngoko": "Kramas",
+        "krama": "Kramas",
+        "krama_inggil": "Jamas",
+        "arti": ""
+    },
+    {
+        "ngoko": "Krasa",
+        "krama": "Kraos",
+        "krama_inggil": "Kraos",
+        "arti": "Terasa"
+    },
+    {
+        "ngoko": "Krasan",
+        "krama": "Kraosan",
+        "krama_inggil": "Kraosan",
+        "arti": "Betah"
+    },
+    {
+        "ngoko": "Kring\u00eat",
+        "krama": "Kring\u00eat",
+        "krama_inggil": "Riwe",
+        "arti": "Mandi jamas"
+    },
+    {
+        "ngoko": "Kubur",
+        "krama": "Petak",
+        "krama_inggil": "Sarean",
+        "arti": "Kubur"
+    },
+    {
+        "ngoko": "Kuburan",
+        "krama": "Kuburan",
+        "krama_inggil": "Pasareyan",
+        "arti": "Makan"
+    },
+    {
+        "ngoko": "Kudu",
+        "krama": "K\u00eadah",
+        "krama_inggil": "K\u00eadah",
+        "arti": "Harus"
+    },
+    {
+        "ngoko": "Kuku",
+        "krama": "Kuku",
+        "krama_inggil": "K\u00eanaka",
+        "arti": "Kuku"
+    },
+    {
+        "ngoko": "Kukuh",
+        "krama": "K\u00eakah",
+        "krama_inggil": "K\u00eakah",
+        "arti": "Kokoh"
+    },
+    {
+        "ngoko": "Kulak",
+        "krama": "Kilak",
+        "krama_inggil": "Kilak",
+        "arti": "Membeli untuk dijual"
+    },
+    {
+        "ngoko": "Kulon",
+        "krama": "Kilen",
+        "krama_inggil": "Kilen",
+        "arti": "Barat"
+    },
+    {
+        "ngoko": "Kuluk",
+        "krama": "Kuluk",
+        "krama_inggil": "Makutha",
+        "arti": "Mahkota"
+    },
+    {
+        "ngoko": "Kumat",
+        "krama": "Kimat",
+        "krama_inggil": "Kimat",
+        "arti": "Kambuh"
+    },
+    {
+        "ngoko": "Kumbah",
+        "krama": "Girah",
+        "krama_inggil": "Girah",
+        "arti": "Cuci"
+    },
+    {
+        "ngoko": "Kumpul",
+        "krama": "K\u00eampal",
+        "krama_inggil": "K\u00eampal",
+        "arti": "Kumpul"
+    },
+    {
+        "ngoko": "Kuna",
+        "krama": "Kina",
+        "krama_inggil": "Kina",
+        "arti": "Kuna"
+    },
+    {
+        "ngoko": "Kuning",
+        "krama": "J\u00eane",
+        "krama_inggil": "J\u00eane",
+        "arti": "Kuning"
+    },
+    {
+        "ngoko": "Kuping",
+        "krama": "Kuping",
+        "krama_inggil": "Talingan",
+        "arti": "Telinga"
+    },
+    {
+        "ngoko": "Kurang",
+        "krama": "Kirang",
+        "krama_inggil": "Kirang",
+        "arti": "Kurang"
+    },
+    {
+        "ngoko": "Kuru",
+        "krama": "K\u00eara",
+        "krama_inggil": "K\u00eara",
+        "arti": "Kurus"
+    },
+    {
+        "ngoko": "Kurung",
+        "krama": "S\u00eangk\u00ear",
+        "krama_inggil": "S\u00eangk\u00ear",
+        "arti": "Kurung"
+    },
+    {
+        "ngoko": "Kutha",
+        "krama": "Kitha",
+        "krama_inggil": "Kitha",
+        "arti": "Kota"
+    },
+    {
+        "ngoko": "Kuwasa",
+        "krama": "Kuwaos",
+        "krama_inggil": "Kuwaos",
+        "arti": "Kuasa"
+    },
+    {
+        "ngoko": "Kuwat/K\u00ealar",
+        "krama": "Kiyat/Kuwawi",
+        "krama_inggil": "Kiyat/Kuwawi",
+        "arti": "Kuat"
+    },
+    {
+        "ngoko": "Kuwatir",
+        "krama": "Kuwatos",
+        "krama_inggil": "Kuwatos",
+        "arti": "Khawatir"
+    },
+    {
+        "ngoko": "Kuwi",
+        "krama": "Niku",
+        "krama_inggil": "Punika",
+        "arti": "Itu"
+    },
+    {
+        "ngoko": "Kumawani",
+        "krama": "Kumawantun",
+        "krama_inggil": "Kumawantun",
+        "arti": "Terlalu bera"
+    }
+]

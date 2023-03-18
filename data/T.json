@@ -1,0 +1,386 @@
+[
+    {
+        "ngoko": "Tai",
+        "krama": "Tinja",
+        "krama_inggil": "Tinja",
+        "arti": "Tahi, Tinja"
+    },
+    {
+        "ngoko": "Tak-",
+        "krama": "Kula-",
+        "krama_inggil": "Dalem-, Kawula-",
+        "arti": "Saya"
+    },
+    {
+        "ngoko": "Takon",
+        "krama": "Taken",
+        "krama_inggil": "Mundhut priksa",
+        "arti": "Bertanya"
+    },
+    {
+        "ngoko": "Tali",
+        "krama": "Tangsul",
+        "krama_inggil": "Tangsul",
+        "arti": "Tali"
+    },
+    {
+        "ngoko": "Tamba",
+        "krama": "Jampi",
+        "krama_inggil": "Usada",
+        "arti": "Obat"
+    },
+    {
+        "ngoko": "Tampa",
+        "krama": "Tampi",
+        "krama_inggil": "Tampi",
+        "arti": "Memperoleh"
+    },
+    {
+        "ngoko": "Tanda Tangan",
+        "krama": "Tanda Tangan",
+        "krama_inggil": "Tapak Asta",
+        "arti": "Tanda tangan"
+    },
+    {
+        "ngoko": "Tandur",
+        "krama": "Tan\u00eam",
+        "krama_inggil": "Tan\u00eam",
+        "arti": "Tanam"
+    },
+    {
+        "ngoko": "Tangan",
+        "krama": "Tangan",
+        "krama_inggil": "Asta",
+        "arti": "Tangan"
+    },
+    {
+        "ngoko": "Tangga",
+        "krama": "Tanggi",
+        "krama_inggil": "Tanggi",
+        "arti": "Tetangga"
+    },
+    {
+        "ngoko": "Tanggon",
+        "krama": "Tangg\u00ean",
+        "krama_inggil": "Tangg\u00ean",
+        "arti": "Tangguh"
+    },
+    {
+        "ngoko": "Tanggung",
+        "krama": "Tang\u00eal",
+        "krama_inggil": "Tang\u00eal",
+        "arti": "Tanggung-tanggung"
+    },
+    {
+        "ngoko": "Tangi",
+        "krama": "Tangi",
+        "krama_inggil": "Wungu",
+        "arti": "Bangun"
+    },
+    {
+        "ngoko": "Tangis",
+        "krama": "Tangis",
+        "krama_inggil": "Pamuwun",
+        "arti": "Tangis"
+    },
+    {
+        "ngoko": "Tap\u00eal",
+        "krama": "Tap\u00eal",
+        "krama_inggil": "Rak\u00eatan",
+        "arti": "Bedak perut"
+    },
+    {
+        "ngoko": "Tapih",
+        "krama": "Sinjang",
+        "krama_inggil": "Nyamping",
+        "arti": "Kain batik (perempuan)"
+    },
+    {
+        "ngoko": "Tari, Ditari",
+        "krama": "Dipuntantun",
+        "krama_inggil": "Dipuntantun",
+        "arti": "Ditanya mau atau tidak"
+    },
+    {
+        "ngoko": "Tatu",
+        "krama": "Tatu",
+        "krama_inggil": "Lab\u00eat",
+        "arti": "Luka"
+    },
+    {
+        "ngoko": "Tau",
+        "krama": "Nate",
+        "krama_inggil": "Nate",
+        "arti": "Pernah"
+    },
+    {
+        "ngoko": "Tawa",
+        "krama": "Tawi",
+        "krama_inggil": "Tawi",
+        "arti": "Menawari dagangan"
+    },
+    {
+        "ngoko": "T\u00eabu",
+        "krama": "Rosan",
+        "krama_inggil": "Rosan",
+        "arti": "Tebu"
+    },
+    {
+        "ngoko": "T\u00eagal",
+        "krama": "T\u00eagil",
+        "krama_inggil": "T\u00eagil",
+        "arti": "Ladang"
+    },
+    {
+        "ngoko": "T\u00eaka",
+        "krama": "Dhat\u00eang",
+        "krama_inggil": "Rawuh",
+        "arti": "Datang"
+    },
+    {
+        "ngoko": "T\u00eakan",
+        "krama": "Dumugi",
+        "krama_inggil": "Dumugi",
+        "arti": "Tiba, Sampai"
+    },
+    {
+        "ngoko": "T\u00eak\u00ean",
+        "krama": "T\u00eak\u00ean",
+        "krama_inggil": "Lantaran",
+        "arti": "Tongkat"
+    },
+    {
+        "ngoko": "T\u00ealu",
+        "krama": "Tiga",
+        "krama_inggil": "Tiga",
+        "arti": "Tiga"
+    },
+    {
+        "ngoko": "T\u00eambaga",
+        "krama": "T\u00eambagi",
+        "krama_inggil": "T\u00eambagi",
+        "arti": "Tembaga"
+    },
+    {
+        "ngoko": "T\u00eambang",
+        "krama": "S\u00eakar",
+        "krama_inggil": "S\u00eakar",
+        "arti": "Lagu, Nyanyian"
+    },
+    {
+        "ngoko": "T\u00eam\u00ean",
+        "krama": "Estu, Y\u00eaktos",
+        "krama_inggil": "Estu, Y\u00eaktos",
+        "arti": "Sungguh, Benar"
+    },
+    {
+        "ngoko": "T\u00eamon",
+        "krama": "P\u00eapanggihan",
+        "krama_inggil": "P\u00eapanggihan",
+        "arti": "Pertemuan"
+    },
+    {
+        "ngoko": "T\u00eamu",
+        "krama": "Panggih",
+        "krama_inggil": "Panggih",
+        "arti": "Temu"
+    },
+    {
+        "ngoko": "T\u00eanan",
+        "krama": "Estu, Y\u00eaktos",
+        "krama_inggil": "Estu, Y\u00eaktos",
+        "arti": "Senyatanya"
+    },
+    {
+        "ngoko": "T\u00eapung",
+        "krama": "T\u00eapang",
+        "krama_inggil": "T\u00eapang",
+        "arti": "Kenal, Bertemu"
+    },
+    {
+        "ngoko": "T\u00earus",
+        "krama": "Laj\u00eang",
+        "krama_inggil": "Laj\u00eang",
+        "arti": "Terus"
+    },
+    {
+        "ngoko": "T\u00eatak",
+        "krama": "Supit",
+        "krama_inggil": "Supit",
+        "arti": "Khitan"
+    },
+    {
+        "ngoko": "T\u00eat\u00eapungan",
+        "krama": "T\u00eat\u00eapangan",
+        "krama_inggil": "T\u00eat\u00eapangan",
+        "arti": "Berkenalan"
+    },
+    {
+        "ngoko": "T\u00eatuwa",
+        "krama": "S\u00eas\u00eapuh",
+        "krama_inggil": "S\u00eas\u00eapuh",
+        "arti": "Sesepuh, Tetua"
+    },
+    {
+        "ngoko": "Tilik",
+        "krama": "Dhawah",
+        "krama_inggil": "Dhawah",
+        "arti": "Jatuh"
+    },
+    {
+        "ngoko": "Tilik",
+        "krama": "Tuwi",
+        "krama_inggil": "Tinjo, Sowan",
+        "arti": "Berkunjung, Menjenguk"
+    },
+    {
+        "ngoko": "Tinggal",
+        "krama": "Tilar",
+        "krama_inggil": "Tilar",
+        "arti": "Meninggalkan"
+    },
+    {
+        "ngoko": "Tlaten",
+        "krama": "Tlatos",
+        "krama_inggil": "Tlatos",
+        "arti": "Tekun"
+    },
+    {
+        "ngoko": "Tonton",
+        "krama": "Tingal",
+        "krama_inggil": "Priksa",
+        "arti": "Lihat"
+    },
+    {
+        "ngoko": "Tontonan",
+        "krama": "T\u00eatingalan",
+        "krama_inggil": "T\u00eatingalan",
+        "arti": "Pertunjukan"
+    },
+    {
+        "ngoko": "Trasi",
+        "krama": "Traos",
+        "krama_inggil": "Traos",
+        "arti": "Terasi"
+    },
+    {
+        "ngoko": "Tuduh",
+        "krama": "T\u00eadah",
+        "krama_inggil": "Paring priksa",
+        "arti": "Memberitahukan"
+    },
+    {
+        "ngoko": "Tuku",
+        "krama": "Tumbas",
+        "krama_inggil": "Mundhut",
+        "arti": "Beli"
+    },
+    {
+        "ngoko": "Tulis",
+        "krama": "S\u00earat",
+        "krama_inggil": "S\u00earat",
+        "arti": "Tulis"
+    },
+    {
+        "ngoko": "Tulisan",
+        "krama": "S\u00earatan",
+        "krama_inggil": "S\u00earatan",
+        "arti": "Tulisan"
+    },
+    {
+        "ngoko": "Tuma",
+        "krama": "Tuma",
+        "krama_inggil": "Itik",
+        "arti": "Kutu"
+    },
+    {
+        "ngoko": "Tumbak",
+        "krama": "Waos",
+        "krama_inggil": "Watangan",
+        "arti": "Tombak"
+    },
+    {
+        "ngoko": "Tuna",
+        "krama": "Tuni",
+        "krama_inggil": "Tuni",
+        "arti": "Rugi, Tidak sampai"
+    },
+    {
+        "ngoko": "Tunggal",
+        "krama": "Tungil",
+        "krama_inggil": "Tungil",
+        "arti": "Satu, Tunggal"
+    },
+    {
+        "ngoko": "Tunggang",
+        "krama": "Tumpak",
+        "krama_inggil": "Nitih",
+        "arti": "Naik (kendaraan)"
+    },
+    {
+        "ngoko": "Tunggangan",
+        "krama": "Tumpakan",
+        "krama_inggil": "Titihan",
+        "arti": "Kendaraan"
+    },
+    {
+        "ngoko": "Tunggu",
+        "krama": "T\u00eangga",
+        "krama_inggil": "T\u00eangga",
+        "arti": "Tunggu"
+    },
+    {
+        "ngoko": "Turah",
+        "krama": "Tirah",
+        "krama_inggil": "Tirah",
+        "arti": "Lebih"
+    },
+    {
+        "ngoko": "Turon",
+        "krama": "Til\u00eaman",
+        "krama_inggil": "Sareyan",
+        "arti": "Tiduran"
+    },
+    {
+        "ngoko": "Turu",
+        "krama": "Tilem",
+        "krama_inggil": "Sare",
+        "arti": "Tidur"
+    },
+    {
+        "ngoko": "Turun",
+        "krama": "T\u00eadhak",
+        "krama_inggil": "T\u00eadhak",
+        "arti": "Keturunan"
+    },
+    {
+        "ngoko": "Turunan",
+        "krama": "T\u00eadhakan",
+        "krama_inggil": "T\u00eadhakan",
+        "arti": "Asal usul keturunan"
+    },
+    {
+        "ngoko": "Tutu",
+        "krama": "Dipung\u00eantang",
+        "krama_inggil": "Dipung\u00eantang",
+        "arti": "Ditumbuk"
+    },
+    {
+        "ngoko": "Tutur",
+        "krama": "Sanjang, Criyos",
+        "krama_inggil": "Paring priksa",
+        "arti": "Berkata"
+    },
+    {
+        "ngoko": "Tuwa",
+        "krama": "S\u00eapuh",
+        "krama_inggil": "Yuswa",
+        "arti": "Tua"
+    },
+    {
+        "ngoko": "Tuwuh",
+        "krama": "Tewah",
+        "krama_inggil": "Tewah",
+        "arti": "Tumbuh"
+    }
+]

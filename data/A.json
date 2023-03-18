@@ -1,0 +1,434 @@
+[
+    {
+        "ngoko": "Aba",
+        "krama": "Aba",
+        "krama_inggil": "Dhawuh",
+        "arti": "Perintah"
+    },
+    {
+        "ngoko": "Abah-abah",
+        "krama": "Abah-abah",
+        "krama_inggil": "Kambil",
+        "arti": "Pelana"
+    },
+    {
+        "ngoko": "Abang",
+        "krama": "Abrit",
+        "krama_inggil": "Abrit",
+        "arti": "Merah"
+    },
+    {
+        "ngoko": "Abot",
+        "krama": "Awrat",
+        "krama_inggil": "Awrat",
+        "arti": "Berat"
+    },
+    {
+        "ngoko": "Adang",
+        "krama": "B\u00eathak",
+        "krama_inggil": "Bethak",
+        "arti": "Menanak nasi"
+    },
+    {
+        "ngoko": "Ad\u00eag",
+        "krama": "Ngadeg",
+        "krama_inggil": "Jum\u00ean\u00eang",
+        "arti": "Berdiri"
+    },
+    {
+        "ngoko": "Adh\u00eam",
+        "krama": "Asr\u00eap",
+        "krama_inggil": "Asr\u00eap",
+        "arti": "Dingin"
+    },
+    {
+        "ngoko": "Adh\u00eap",
+        "krama": "Aj\u00eang",
+        "krama_inggil": "Aj\u00eang",
+        "arti": "Hadap"
+    },
+    {
+        "ngoko": "Adhi",
+        "krama": "Adhi",
+        "krama_inggil": "Rayi",
+        "arti": "Adik"
+    },
+    {
+        "ngoko": "Adoh",
+        "krama": "T\u00eabih",
+        "krama_inggil": "Tebih",
+        "arti": "Jauh"
+    },
+    {
+        "ngoko": "Adol",
+        "krama": "Sade",
+        "krama_inggil": "Sade",
+        "arti": "Jual"
+    },
+    {
+        "ngoko": "Adon",
+        "krama": "Ab\u00ean",
+        "krama_inggil": "Ab\u00ean",
+        "arti": "Sabung"
+    },
+    {
+        "ngoko": "Adu",
+        "krama": "Ab\u00ean",
+        "krama_inggil": "Aben",
+        "arti": "Menyabung"
+    },
+    {
+        "ngoko": "Adus",
+        "krama": "Adus",
+        "krama_inggil": "Siram",
+        "arti": "Mandi"
+    },
+    {
+        "ngoko": "Agama",
+        "krama": "Agami",
+        "krama_inggil": "Agami",
+        "arti": "Agama"
+    },
+    {
+        "ngoko": "Age",
+        "krama": "Enggal",
+        "krama_inggil": "Enggal",
+        "arti": "Cepat"
+    },
+    {
+        "ngoko": "Agek",
+        "krama": "Saw\u00eag",
+        "krama_inggil": "Saw\u00eag",
+        "arti": "Baru saja"
+    },
+    {
+        "ngoko": "Aja",
+        "krama": "ampun",
+        "krama_inggil": "Sampun",
+        "arti": "Jangan"
+    },
+    {
+        "ngoko": "Ajang",
+        "krama": "Ajang",
+        "krama_inggil": "Amb\u00eang",
+        "arti": "Tempat nasi"
+    },
+    {
+        "ngoko": "Aji",
+        "krama": "Aos",
+        "krama_inggil": "Aos",
+        "arti": "Nilai, Harga, Martabat"
+    },
+    {
+        "ngoko": "Aju",
+        "krama": "Aj\u00eang",
+        "krama_inggil": "Aj\u00eang",
+        "arti": "Maju"
+    },
+    {
+        "ngoko": "Akeh",
+        "krama": "Kathah",
+        "krama_inggil": "Kathah",
+        "arti": "Banyak"
+    },
+    {
+        "ngoko": "Akon",
+        "krama": "Ak\u00ean",
+        "krama_inggil": "Dhawuh",
+        "arti": "Suruh"
+    },
+    {
+        "ngoko": "Aksama",
+        "krama": "Aksami",
+        "krama_inggil": "Aksami",
+        "arti": "Ampun, Maaf"
+    },
+    {
+        "ngoko": "Aku",
+        "krama": "Kula",
+        "krama_inggil": "Kawula, Dal\u00eam",
+        "arti": "Saya"
+    },
+    {
+        "ngoko": "Aku, Ngaku",
+        "krama": "Aken",
+        "krama_inggil": "Aken",
+        "arti": "Mengaku"
+    },
+    {
+        "ngoko": "Ala",
+        "krama": "Awon",
+        "krama_inggil": "Awon",
+        "arti": "Buruk, Jelek"
+    },
+    {
+        "ngoko": "Alangan",
+        "krama": "Pamb\u00eangan",
+        "krama_inggil": "Pambengan",
+        "arti": "Halangan"
+    },
+    {
+        "ngoko": "Alas",
+        "krama": "Wana",
+        "krama_inggil": "Wana",
+        "arti": "Hutan"
+    },
+    {
+        "ngoko": "Ali-ali",
+        "krama": "S\u00easupe",
+        "krama_inggil": "Sesupe",
+        "arti": "Cincin"
+    },
+    {
+        "ngoko": "Alih",
+        "krama": "Pindhah",
+        "krama_inggil": "Pindhah",
+        "arti": "Pindah"
+    },
+    {
+        "ngoko": "Alis",
+        "krama": "Allis",
+        "krama_inggil": "Imba",
+        "arti": "Alis"
+    },
+    {
+        "ngoko": "Amarga",
+        "krama": "Amargi",
+        "krama_inggil": "Amargi",
+        "arti": "Karena"
+    },
+    {
+        "ngoko": "Amba",
+        "krama": "Wiyar",
+        "krama_inggil": "Wiyar",
+        "arti": "Lebar"
+    },
+    {
+        "ngoko": "Ambu",
+        "krama": "Amb\u00eat",
+        "krama_inggil": "Ganda",
+        "arti": "Bau"
+    },
+    {
+        "ngoko": "Ambung",
+        "krama": "Ambung",
+        "krama_inggil": "Aras",
+        "arti": "Cium"
+    },
+    {
+        "ngoko": "Amek",
+        "krama": "M\u00eandh\u00eat",
+        "krama_inggil": "M\u00eandh\u00eat",
+        "arti": "Ambil"
+    },
+    {
+        "ngoko": "Am\u00earga",
+        "krama": "Am\u00eargi",
+        "krama_inggil": "Am\u00eargi",
+        "arti": "Karena"
+    },
+    {
+        "ngoko": "Amit",
+        "krama": "Amit",
+        "krama_inggil": "Nuwun sewu",
+        "arti": "Minta maaf"
+    },
+    {
+        "ngoko": "Ampir",
+        "krama": "Ampir",
+        "krama_inggil": "Pinarak",
+        "arti": "Singgah"
+    },
+    {
+        "ngoko": "Ana",
+        "krama": "Wonten",
+        "krama_inggil": "Wonten",
+        "arti": "Ada"
+    },
+    {
+        "ngoko": "Anak",
+        "krama": "Anak, Lare",
+        "krama_inggil": "Putra",
+        "arti": "Anak"
+    },
+    {
+        "ngoko": "And\u00eal",
+        "krama": "Pitados",
+        "krama_inggil": "Pitados",
+        "arti": "Percaya"
+    },
+    {
+        "ngoko": "Angel",
+        "krama": "Awrat",
+        "krama_inggil": "Awrat",
+        "arti": "Sulit"
+    },
+    {
+        "ngoko": "Angg\u00ear",
+        "krama": "Saug\u00ear",
+        "krama_inggil": "Saug\u00ear",
+        "arti": "Asalkan"
+    },
+    {
+        "ngoko": "Angkat",
+        "krama": "Bidhal",
+        "krama_inggil": "Tindhak, J\u00eangkar",
+        "arti": "Pergi"
+    },
+    {
+        "ngoko": "Anggo",
+        "krama": "Angg\u00ea",
+        "krama_inggil": "Ag\u00eam",
+        "arti": "Pakai"
+    },
+    {
+        "ngoko": "Angon",
+        "krama": "Angen",
+        "krama_inggil": "Angen",
+        "arti": "Menggembala"
+    },
+    {
+        "ngoko": "Ani-ani",
+        "krama": "Pugut",
+        "krama_inggil": "Pugut",
+        "arti": "Ani-ani (Alat penuai padi)"
+    },
+    {
+        "ngoko": "Anom",
+        "krama": "\u00canem",
+        "krama_inggil": "\u00canem",
+        "arti": "Muda"
+    },
+    {
+        "ngoko": "Antara",
+        "krama": "Antawis",
+        "krama_inggil": "Antawis",
+        "arti": "Antara"
+    },
+    {
+        "ngoko": "Anut",
+        "krama": "Tumut",
+        "krama_inggil": "Dherek",
+        "arti": "Ikut"
+    },
+    {
+        "ngoko": "Anyar",
+        "krama": "Enggal",
+        "krama_inggil": "Enggal",
+        "arti": "Baru"
+    },
+    {
+        "ngoko": "Apa",
+        "krama": "Punapa",
+        "krama_inggil": "Punapa",
+        "arti": "Apa"
+    },
+    {
+        "ngoko": "Apik",
+        "krama": "Sae",
+        "krama_inggil": "Sae",
+        "arti": "Baik, Bagus"
+    },
+    {
+        "ngoko": "Apura",
+        "krama": "Apunt\u00ean",
+        "krama_inggil": "Apunt\u00ean",
+        "arti": "Maaf"
+    },
+    {
+        "ngoko": "Arah",
+        "krama": "Angkah",
+        "krama_inggil": "Angkah",
+        "arti": "Maksud, Tujuan"
+    },
+    {
+        "ngoko": "Aran",
+        "krama": "Nama",
+        "krama_inggil": "Asma",
+        "arti": "Nama"
+    },
+    {
+        "ngoko": "Arang",
+        "krama": "Awis",
+        "krama_inggil": "Awis",
+        "arti": "Jrang"
+    },
+    {
+        "ngoko": "Arep",
+        "krama": "Aj\u00eang",
+        "krama_inggil": "K\u00earsa",
+        "arti": "Mau"
+    },
+    {
+        "ngoko": "Arti",
+        "krama": "Artos",
+        "krama_inggil": "Artos",
+        "arti": "Makna"
+    },
+    {
+        "ngoko": "Asor",
+        "krama": "Awon",
+        "krama_inggil": "Andhap",
+        "arti": "Rendah"
+    },
+    {
+        "ngoko": "Asu",
+        "krama": "S\u00eagawon",
+        "krama_inggil": "S\u00eagawon",
+        "arti": "Anjing"
+    },
+    {
+        "ngoko": "Ati",
+        "krama": "Manah",
+        "krama_inggil": "Penggalih",
+        "arti": "Hati"
+    },
+    {
+        "ngoko": "Atop",
+        "krama": "Atop",
+        "krama_inggil": "S\u00eagu",
+        "arti": "Tersendawa"
+    },
+    {
+        "ngoko": "Atur",
+        "krama": "Atur",
+        "krama_inggil": "Unjuk",
+        "arti": "Beri"
+    },
+    {
+        "ngoko": "Awak",
+        "krama": "Badan",
+        "krama_inggil": "Salira",
+        "arti": "Badan, Tubuh"
+    },
+    {
+        "ngoko": "Awan",
+        "krama": "Siyang",
+        "krama_inggil": "Siyang",
+        "arti": "Siang"
+    },
+    {
+        "ngoko": "Aweh",
+        "krama": "Nyukani",
+        "krama_inggil": "Maringi",
+        "arti": "Beri"
+    },
+    {
+        "ngoko": "Ayake",
+        "krama": "Mbok m\u00eanawi",
+        "krama_inggil": "Mbok m\u00eanawi",
+        "arti": "Barangkali"
+    },
+    {
+        "ngoko": "Ayo",
+        "krama": "Mangga",
+        "krama_inggil": "Sumangga",
+        "arti": "Marilah"
+    },
+    {
+        "ngoko": "",
+        "krama": "",
+        "krama_inggil": "",
+        "arti": ""
+    }
+]
